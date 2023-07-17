@@ -32,10 +32,10 @@ i {
   width: 200px;
   height: 100vh;
   display: flex;
-  align-items: center;
   justify-content: center;
   transition: 0.4s;
   transform: translateX(-200px);
+  padding-top: 21px;
 }
 nav i {
   padding: 20px 0;
@@ -45,7 +45,7 @@ nav.active {
 }
 .menu i {
   color: blueviolet;
-  padding-top: 20px;
+  padding-top: 30px;
   margin-right: 30px;
   font-size: 28px;
 }
